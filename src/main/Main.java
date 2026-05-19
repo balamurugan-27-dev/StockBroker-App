@@ -11,9 +11,9 @@ public class Main {
 
 	public static void main(String[] args) throws SQLException {
 		
-		System.out.println("===========================================================");
-		System.out.printf(   "         WELCOME TO  BALAMURUGAN STOCK BROKER  \n");
-		System.out.println("===========================================================");
+		System.out.println("===================================================================");
+		System.out.printf(   "         WELCOME TO  BALAMURUGAN STOCK BROKER Application \n");
+		System.out.println("=====================================================================");
 		System.out.println(" Press 1 for 'REGISTER' \n press 2 for 'LogIn' \n press 3 for 'Exit' ");
 		int input; 
 		
