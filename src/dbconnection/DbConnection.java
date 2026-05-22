@@ -13,6 +13,7 @@ public class DbConnection {
 		
 		catch(SQLException e) {
 			System.out.println("Connection failed ");
+			e.printStackTrace();
 			return null;
 		}
 	}
