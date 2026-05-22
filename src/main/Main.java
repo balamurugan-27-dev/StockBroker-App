@@ -59,7 +59,7 @@ public class Main {
 		while(active) {
 			
 			System.out.println("========= "+loginUser.getName().toUpperCase() +"  User Menu"+"===========");
-			System.out.println(" Wallet Balance : ₹"+loginUser.getBalance());
+			System.out.println(" Wallet Balance :  ₹"+loginUser.getBalance());
 			System.out.println(" press 1 View All Stocks");
 			System.out.println(" press 2 Buy Stacks");;
 			System.out.println(" press 3 sell Stacks");
